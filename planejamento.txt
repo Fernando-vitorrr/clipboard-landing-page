@@ -1,0 +1,7 @@
+- planejamento do que foi pedido pelo cliente
+
+1 - criar branch para fazer as alterações
+2 - criar um style.css, e linkar com o HTML
+3 - dividir o texto em seções
+
+
